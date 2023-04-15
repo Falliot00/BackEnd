@@ -25,7 +25,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @author Fermin
  */
 @RestController
-@CrossOrigin(origins = {"https://backendfalliot.onrender.com", "http://localhost:4200"})
+@CrossOrigin(origins = {"https://frontendfalliot.web.app/", "http://localhost:4200"})
 @RequestMapping("/skill")
 public class CHys {
 
