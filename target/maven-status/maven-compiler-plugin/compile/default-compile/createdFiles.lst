@@ -3,7 +3,9 @@ com\portfolio\Falliot\Security\Service\UsuarioService.class
 com\portfolio\Falliot\Entity\Educacion.class
 com\portfolio\Falliot\Repository\RExperiencia.class
 com\portfolio\Falliot\Security\Dto\LoginUsuario.class
+com\portfolio\Falliot\Dto\dtoProyecto.class
 com\portfolio\Falliot\Controller\CHys.class
+com\portfolio\Falliot\Controller\CProyecto.class
 com\portfolio\Falliot\Security\Dto\JwtDto.class
 com\portfolio\Falliot\Security\Entity\Rol.class
 com\portfolio\Falliot\Service\ImpPersonaService.class
@@ -15,10 +17,12 @@ com\portfolio\Falliot\Security\Controller\AuthController.class
 com\portfolio\Falliot\Security\Service\UserDetailsServiceImpl.class
 com\portfolio\Falliot\Dto\dtoHys.class
 com\portfolio\Falliot\Repository\REducacion.class
+com\portfolio\Falliot\Entity\Proyecto.class
 com\portfolio\Falliot\Dto\dtoExperiencia.class
 com\portfolio\Falliot\Repository\Rhys.class
 com\portfolio\Falliot\Service\SEducacion.class
 com\portfolio\Falliot\Security\Repository\iRolRepository.class
+com\portfolio\Falliot\Repository\RProyecto.class
 com\portfolio\Falliot\Security\jwt\JwtProvider.class
 com\portfolio\Falliot\Controller\CEducacion.class
 com\portfolio\Falliot\Security\MainSecurity.class
@@ -35,6 +39,7 @@ com\portfolio\Falliot\Security\Entity\Usuario.class
 com\portfolio\Falliot\Entity\Experiencia.class
 com\portfolio\Falliot\Security\Service\RolService.class
 com\portfolio\Falliot\Controller\CExperiencia.class
+com\portfolio\Falliot\Service\SProyecto.class
 com\portfolio\Falliot\FalliotApplication.class
 com\portfolio\Falliot\Dto\dtoPersona.class
 com\portfolio\Falliot\Entity\hys.class
