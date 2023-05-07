@@ -16,7 +16,7 @@
     </table>
   </div>
   
-  En este repositorio se encuentra todo lo relacionado al **Frontend** del proyecto, para acceder al **Backend** [**ir aquí**](https://github.com/Falliot00/portfolio-BackEnd "aquí")
+  En este repositorio se encuentra todo lo relacionado al **Frontend** del proyecto, para acceder al **Backend** [**ir aquí**](https://github.com/Falliot00/portfolio-FrontEnd "aquí")
 
   🔗 **Web:** [https://frontendfalliot.web.app/](https://frontendfalliot.web.app/ "web.app")
 
@@ -103,7 +103,7 @@
   Si deseas correr la aplicación en un entorno local debes tener en cuenta lo siguiente: 
   1. Clona el repositorio utilizando GIT o descargando el archivo ZIP:
 
-      `git clone https://github.com/Falliot00/portfolio-FrontEnd.git`
+      `git clone https://github.com/Falliot00/portfolio-BackEnd.git`
 
   2. Instala las dependencias a través de NPM.
 
