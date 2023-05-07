@@ -16,7 +16,7 @@
     </table>
   </div>
   
-  En este repositorio se encuentra todo lo relacionado al **Frontend** del proyecto, para acceder al **Backend** [**ir aquí**](https://github.com/Falliot00/portfolio-FrontEnd "aquí")
+  En este repositorio se encuentra todo lo relacionado al **Backend** del proyecto, para acceder al **Frontend** [**ir aquí**](https://github.com/Falliot00/portfolio-FrontEnd "aquí")
 
   🔗 **Web:** [https://frontendfalliot.web.app/](https://frontendfalliot.web.app/ "web.app")
 
